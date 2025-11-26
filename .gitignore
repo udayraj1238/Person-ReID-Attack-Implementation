@@ -1,0 +1,11 @@
+# Ignore the dataset (Too big for GitHub)
+Market-1501/
+Market-1501-v15.09.15/
+
+# Ignore trained model weights (Often too big >100MB)
+*.pth
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
